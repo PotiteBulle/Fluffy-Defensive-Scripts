@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Fichiers sensibles à vérifier
-FILES=("/etc/passwd" "/etc/shadow" "/etc/hosts" "/etc/ssh/sshd_config")
+FILES=("/etc/passwd" "/etc/shadow" "/etc/hosts" "/etc/ssh/sshd_config") # CHANGE THIS 
 OUTPUT_FILE="/var/log/file_permissions_security.log"
 EMAIL="admin@example.com" # CHANGE THIS
 
