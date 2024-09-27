@@ -2,8 +2,8 @@
 
 # Variables
 OUTPUT_FILE="/var/log/suspect_processes.log"
-KEYWORDS=("nc" "nmap" "hydra" "john" "aircrack-ng" "metasploit" "netcat") # Trigger PATTERNS
-MAX_MEMORY_USAGE=50000  # Limite de la mémoire en Ko (ex. 50 Mo)
+KEYWORDS=("nc" "nmap" "hydra" "john" "aircrack-ng" "metasploit" "netcat") # TRIGGERS PATTERNS (CHANGE THIS)
+MAX_MEMORY_USAGE=50000  # Limite de la mémoire en Ko (ex. 50 Mo = 50000)
 EMAIL="admin@example.com" # CHANGE THIS
 
 # Journalisation du début de la surveillance
