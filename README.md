@@ -1,4 +1,6 @@
 # Fluffy-Defensive-Scripts
+Scripts d'Automatisation [Defensive-Scripts - Blue Teaming](https://www.checkpoint.com/fr/cyber-hub/cyber-security/what-is-a-blue-team/)
+
 Ce script de sécurité Bash est conçu pour automatiser la surveillance des systèmes en identifiant les anomalies, telles que des processus suspects, des ports ouverts, des mises à jour de sécurité manquantes, ou des modifications non autorisées de fichiers sensibles. Il permet aux administrateur·ices et ingénieur·es en sécurité de maintenir un environnement sécurisé et de détecter les menaces potentielles.
 
 # Clause de non-responsabilité
